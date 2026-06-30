@@ -4,6 +4,7 @@ package challenge8
 import (
 	"errors"
 	"sync"
+	"time"
 	// Add any other necessary imports
 )
 
@@ -47,18 +48,16 @@ type BroadcastMessage struct {
 type ChatServer struct {
 	// TODO: Implement this struct
 	// Hint: clients map, mutex
-	clients    map[string]*Client
-	broadcast  chan BroadcastMessage
-	disconnect chan *Client
-	connect    chan *Client
-	mu         sync.RWMutex
+	clients map[string]*Client
+	mu      sync.RWMutex
 }
 
 // NewChatServer creates a new chat server instance
 func NewChatServer() *ChatServer {
 	// TODO: Implement this function
-	chatServer := &ChatServer{clients: map[string]*Client{}}
-	chatServer.run()
+	chatServer := &ChatServer{
+		clients: map[string]*Client{},
+	}
 	return chatServer
 }
 
@@ -67,17 +66,19 @@ func (s *ChatServer) Connect(username string) (*Client, error) {
 	// TODO: Implement this method
 	// Hint: check username, create client, add to map
 	s.mu.Lock()
+	defer s.mu.Unlock()
+
 	_, ok := s.clients[username]
-	s.mu.Unlock()
 	if ok {
 		return nil, ErrUsernameAlreadyTaken
 	}
+
 	client := &Client{
 		Username: username,
 		Messages: make(chan string, 100),
 	}
-	s.connect <- client
 
+	s.clients[username] = client
 	return client, nil
 }
 
@@ -86,27 +87,35 @@ func (s *ChatServer) Disconnect(client *Client) {
 	// TODO: Implement this method
 	// Hint: remove from map, close channels
 	s.mu.Lock()
-	if _, ok := s.clients[client.Username]; ok {
-		s.disconnect <- client
-	}
-	s.mu.Unlock()
+	defer s.mu.Unlock()
+	close(client.Messages)
+	delete(s.clients, client.Username)
 }
 
 // Broadcast sends a message to all connected clients
 func (s *ChatServer) Broadcast(sender *Client, message string) {
-	s.broadcast <- BroadcastMessage{
-		Sender:  sender,
-		Content: message,
+	s.mu.RLock()
+	defer s.mu.RUnlock()
+
+	for _, client := range s.clients {
+		select {
+		case client.Messages <- message:
+		case <-time.After(time.Second):
+		}
 	}
+
 }
 
 // PrivateMessage sends a message to a specific client
 func (s *ChatServer) PrivateMessage(sender *Client, recipient string, message string) error {
 	s.mu.RLock()
-	client, exists := s.clients[recipient]
-	s.mu.RUnlock()
-	if !exists {
-		return errors.New("recipient not found")
+	defer s.mu.RUnlock()
+	client, ReceipientExists := s.clients[recipient]
+	if !ReceipientExists {
+		return ErrRecipientNotFound
+	}
+	if _, senderExists := s.clients[sender.Username]; !senderExists {
+		return errors.New("sender is disconnected")
 	}
 	select {
 	case client.Messages <- message:
@@ -116,28 +125,28 @@ func (s *ChatServer) PrivateMessage(sender *Client, recipient string, message st
 	}
 }
 
-func (s *ChatServer) run() {
-	for {
-		select {
-		case client := <-s.connect:
-			s.mu.Lock()
-			s.clients[client.Username] = client
-			s.mu.Unlock()
-		case client := <-s.disconnect:
-			// Handle disconnection
-			s.mu.Lock()
-			close(client.Messages)
-			delete(s.clients, client.Username)
-			s.mu.Unlock()
-		case msg := <-s.broadcast:
-			s.mu.Lock()
-			for _, client := range s.clients {
-				client.Send(msg.Content)
-			}
-			s.mu.Unlock()
-		}
-	}
-}
+// func (s *ChatServer) run() {
+// 	for {
+// 		select {
+// 		case client := <-s.connect:
+// 			s.mu.Lock()
+// 			s.clients[client.Username] = client
+// 			s.mu.Unlock()
+// 		case client := <-s.disconnect:
+// 			// Handle disconnection
+// 			s.mu.Lock()
+// 			close(client.Messages)
+// 			delete(s.clients, client.Username)
+// 			s.mu.Unlock()
+// 		case msg := <-s.broadcast:
+// 			s.mu.Lock()
+// 			for _, client := range s.clients {
+// 				client.Send(msg.Content)
+// 			}
+// 			s.mu.Unlock()
+// 		}
+// 	}
+// }
 
 // Common errors that can be returned by the Chat Server
 var (
