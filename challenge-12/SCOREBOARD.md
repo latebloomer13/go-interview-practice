@@ -1,10 +1,13 @@
 # Scoreboard for challenge-12
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| AlieNoori | 26 | 26 |
 | Cpoing | 26 | 26 |
+| IvanDamNation | 26 | 26 |
 | Kosench | 26 | 26 |
 | PolinaSvet | 26 | 26 |
 | PopovMarko | 26 | 26 |
+| atplay90 | 26 | 26 |
 | longbui98 | 26 | 26 |
 | mvsouza | 26 | 26 |
 | nzamulov | 26 | 26 |

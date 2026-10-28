@@ -3,14 +3,18 @@
 |------------|--------------|-------------|
 | AkifhanIlgaz | 18 | 18 |
 | Ali-Fartoot | 18 | 18 |
+| AlieNoori | 18 | 18 |
 | Cpoing | 18 | 18 |
 | Gandook | 18 | 18 |
 | IBraveMonkey | 18 | 18 |
 | ImHotDog | 18 | 18 |
+| IvanDamNation | 18 | 18 |
 | JackDalberg | 18 | 18 |
+| JoQCorreia | 18 | 18 |
 | Johrespi | 18 | 18 |
 | Khabbab172 | 18 | 18 |
 | KhaledMosaad | 18 | 18 |
+| Kosench | 18 | 18 |
 | Lezhni | 18 | 18 |
 | MYK12397 | 18 | 18 |
 | Mxn-ptr | 18 | 18 |
@@ -21,8 +25,11 @@
 | adi041518 | 18 | 18 |
 | amanabay | 18 | 18 |
 | ashwinipatankar | 18 | 18 |
+| atplay90 | 18 | 18 |
 | azs0309 | 18 | 18 |
 | cep-ter | 18 | 18 |
+| evassilyev | 18 | 18 |
+| gootibi | 18 | 18 |
 | grozdovk | 18 | 18 |
 | hudazaan | 18 | 18 |
 | hvijaycse | 18 | 18 |

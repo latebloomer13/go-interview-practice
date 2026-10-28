@@ -96,16 +96,16 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 
 | 🏅 | Developer | Solved | Rate | Achievement | Progress |
 |:---:|:---:|:---:|:---:|:---:|:---|
-| 🥇 | <img src="https://github.com/PolinaSvet.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PolinaSvet](https://github.com/PolinaSvet)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 🥈 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 🥉 | <img src="https://github.com/mvsouza.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mvsouza](https://github.com/mvsouza)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 4 | <img src="https://github.com/nzamulov.png" width="24" height="24" style="border-radius: 50%;"><br/>**[nzamulov](https://github.com/nzamulov)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 5 | <img src="https://github.com/odelbos.png" width="24" height="24" style="border-radius: 50%;"><br/>**[odelbos](https://github.com/odelbos)** | **29**/30 | **96.7%** | Master | ✅⬜✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 6 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **25**/30 | **83.3%** | Master | ✅✅✅✅✅✅✅⬜✅✅✅⬜✅⬜✅<br/>✅✅✅✅✅✅✅✅✅✅⬜✅✅⬜✅ |
-| 7 | <img src="https://github.com/mick4711.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mick4711](https://github.com/mick4711)** | **23**/30 | **76.7%** | Master | ✅✅✅✅✅✅✅✅✅✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜✅✅⬜⬜✅ |
-| 8 | <img src="https://github.com/Gandook.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Gandook](https://github.com/Gandook)** | **21**/30 | **70.0%** | Master | ✅⬜✅✅✅✅✅✅✅✅⬜⬜✅⬜⬜<br/>⬜✅✅✅⬜✅✅✅✅✅✅✅⬜⬜✅ |
-| 9 | <img src="https://github.com/y1hao.png" width="24" height="24" style="border-radius: 50%;"><br/>**[y1hao](https://github.com/y1hao)** | **20**/30 | **66.7%** | Master | ✅⬜✅✅✅✅✅✅⬜✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜⬜✅⬜⬜✅ |
-| 10 | <img src="https://github.com/Ali-Fartoot.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Ali-Fartoot](https://github.com/Ali-Fartoot)** | **19**/30 | **63.3%** | Expert | ✅✅✅✅✅✅✅✅⬜✅⬜⬜✅⬜⬜<br/>✅✅✅✅⬜✅✅✅⬜⬜⬜✅⬜⬜✅ |
+| 🥇 | <img src="https://github.com/IvanDamNation.png" width="24" height="24" style="border-radius: 50%;"><br/>**[IvanDamNation](https://github.com/IvanDamNation)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 🥈 | <img src="https://github.com/PolinaSvet.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PolinaSvet](https://github.com/PolinaSvet)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 🥉 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 4 | <img src="https://github.com/mvsouza.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mvsouza](https://github.com/mvsouza)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 5 | <img src="https://github.com/nzamulov.png" width="24" height="24" style="border-radius: 50%;"><br/>**[nzamulov](https://github.com/nzamulov)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 6 | <img src="https://github.com/odelbos.png" width="24" height="24" style="border-radius: 50%;"><br/>**[odelbos](https://github.com/odelbos)** | **29**/30 | **96.7%** | Master | ✅⬜✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 7 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **28**/30 | **93.3%** | Master | ✅✅✅✅✅✅✅✅✅✅✅⬜✅⬜✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 8 | <img src="https://github.com/atplay90.png" width="24" height="24" style="border-radius: 50%;"><br/>**[atplay90](https://github.com/atplay90)** | **25**/30 | **83.3%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅⬜⬜⬜✅⬜⬜✅ |
+| 9 | <img src="https://github.com/mick4711.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mick4711](https://github.com/mick4711)** | **23**/30 | **76.7%** | Master | ✅✅✅✅✅✅✅✅✅✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜✅✅⬜⬜✅ |
+| 10 | <img src="https://github.com/evassilyev.png" width="24" height="24" style="border-radius: 50%;"><br/>**[evassilyev](https://github.com/evassilyev)** | **22**/30 | **73.3%** | Master | ✅✅✅✅✅✅✅⬜⬜✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅✅✅⬜✅⬜⬜✅ |
 
 <div align="center">
 
@@ -120,8 +120,8 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 ### Challenge Progress Overview
 
 - **Total Challenges Available**: 30
-- **Active Developers**: 358
-- **Most Challenges Solved**: 30 by PolinaSvet
+- **Active Developers**: 402
+- **Most Challenges Solved**: 30 by IvanDamNation
 
 <!-- END_CLASSIC_LEADERBOARD -->
 ## 🚀 Package Challenges Leaderboard
@@ -134,14 +134,14 @@ Master Go packages through hands-on challenges! Each package offers a structured
 |:---:|:---:|:---:|:---:|:---:|:---|
 | 🥇 | <img src="https://github.com/odelbos.png" width="24" height="24" style="border-radius: 50%;"><br/>**[odelbos](https://github.com/odelbos)** | **17** | **4** pkgs | 🔥 Package Master | **cobra**: 4 • **fiber**: 4 • **gin**: 4 • **gorm**: 5 |
 | 🥈 | <img src="https://github.com/PolinaSvet.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PolinaSvet](https://github.com/PolinaSvet)** | **8** | **2** pkgs | 💪 Package Advanced | **cobra**: 4 • **gin**: 4 |
-| 🥉 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **7** | **6** pkgs | 💪 Package Advanced | **cobra**: 1 • **echo**: 1 • **fiber**: 1 • **gin**: 1 • **gorm**: 1 • **mongodb**: 2 |
-| 4 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **6** | **2** pkgs | 💪 Package Advanced | **gin**: 3 • **gorm**: 3 |
-| 5 | <img src="https://github.com/22-7-co.png" width="24" height="24" style="border-radius: 50%;"><br/>**[22-7-co](https://github.com/22-7-co)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
-| 6 | <img src="https://github.com/Mxn-ptr.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Mxn-ptr](https://github.com/Mxn-ptr)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
-| 7 | <img src="https://github.com/Onkar-25.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Onkar-25](https://github.com/Onkar-25)** | **5** | **3** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 2 • **mongodb**: 1 |
-| 8 | <img src="https://github.com/ItalloMangueBoy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
-| 9 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **4** | **2** pkgs | 🚀 Package Intermediate | **cobra**: 3 • **gin**: 1 |
-| 10 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
+| 🥉 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **8** | **3** pkgs | 💪 Package Advanced | **cobra**: 3 • **gin**: 4 • **gorm**: 1 |
+| 4 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **7** | **6** pkgs | 💪 Package Advanced | **cobra**: 1 • **echo**: 1 • **fiber**: 1 • **gin**: 1 • **gorm**: 1 • **mongodb**: 2 |
+| 5 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **7** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 3 |
+| 6 | <img src="https://github.com/IvanDamNation.png" width="24" height="24" style="border-radius: 50%;"><br/>**[IvanDamNation](https://github.com/IvanDamNation)** | **6** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 2 |
+| 7 | <img src="https://github.com/22-7-co.png" width="24" height="24" style="border-radius: 50%;"><br/>**[22-7-co](https://github.com/22-7-co)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
+| 8 | <img src="https://github.com/Mxn-ptr.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Mxn-ptr](https://github.com/Mxn-ptr)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
+| 9 | <img src="https://github.com/Onkar-25.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Onkar-25](https://github.com/Onkar-25)** | **5** | **3** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 2 • **mongodb**: 1 |
+| 10 | <img src="https://github.com/Sylinsic.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Sylinsic](https://github.com/Sylinsic)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 3 |
 
 <div align="center">
 
@@ -181,19 +181,19 @@ Master Go packages through hands-on challenges! Each package offers a structured
 |:---:|:---:|:---:|:---|
 | 🥇 | **[22-7-co](https://github.com/22-7-co)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 🥈 | **[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 🥉 | **[Mxn-ptr](https://github.com/Mxn-ptr)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 4 | **[PolinaSvet](https://github.com/PolinaSvet)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 5 | **[father-frog](https://github.com/father-frog)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 🥉 | **[IvanDamNation](https://github.com/IvanDamNation)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 4 | **[Mxn-ptr](https://github.com/Mxn-ptr)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 5 | **[PolinaSvet](https://github.com/PolinaSvet)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 
 #### Gorm Package
 
 | Rank | Developer | Completed | Progress |
 |:---:|:---:|:---:|:---|
 | 🥇 | **[odelbos](https://github.com/odelbos)** | 5/5 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 🥈 | **[aswinsreeraj](https://github.com/aswinsreeraj)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-| 🥉 | **[imankhodadi](https://github.com/imankhodadi)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-| 4 | **[Onkar-25](https://github.com/Onkar-25)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
-| 5 | **[grozdovk](https://github.com/grozdovk)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| 🥈 | **[Sylinsic](https://github.com/Sylinsic)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| 🥉 | **[aswinsreeraj](https://github.com/aswinsreeraj)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| 4 | **[imankhodadi](https://github.com/imankhodadi)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| 5 | **[IvanDamNation](https://github.com/IvanDamNation)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
 
 #### Mongodb Package
 
@@ -206,7 +206,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 ### 📊 Package Challenge Statistics
 
 - **Total Package Challenges Available**: 26
-- **Active Package Learners**: 51
+- **Active Package Learners**: 58
 - **Available Packages**: 6 (cobra, echo, fiber, gin, gorm, mongodb)
 
 - **Most Package Challenges Solved**: 17 by odelbos

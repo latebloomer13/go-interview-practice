@@ -3,13 +3,17 @@
 |------------|--------------|-------------|
 | AkifhanIlgaz | 27 | 27 |
 | Ali-Fartoot | 27 | 27 |
+| AlieNoori | 27 | 27 |
 | ForcemCS | 27 | 27 |
 | Gandook | 27 | 27 |
 | Hikitak | 27 | 27 |
 | IBraveMonkey | 27 | 27 |
+| IvanDamNation | 27 | 27 |
 | JackDalberg | 27 | 27 |
+| JoQCorreia | 27 | 27 |
 | Johrespi | 27 | 27 |
 | KhaledMosaad | 27 | 27 |
+| Kosench | 27 | 27 |
 | MYK12397 | 27 | 27 |
 | Mxn-ptr | 27 | 27 |
 | Onkar-25 | 27 | 27 |
@@ -20,9 +24,11 @@
 | ZaharBorisenko | 27 | 27 |
 | affulk000 | 27 | 27 |
 | ashwinipatankar | 27 | 27 |
+| atplay90 | 27 | 27 |
 | azs0309 | 27 | 27 |
 | chenyao0910 | 27 | 27 |
 | czysiaczek | 27 | 27 |
+| evassilyev | 27 | 27 |
 | foyez | 27 | 27 |
 | grozdovk | 27 | 27 |
 | hvijaycse | 27 | 27 |
@@ -35,6 +41,7 @@
 | koki1610168 | 27 | 27 |
 | kuzminprog | 27 | 27 |
 | lanmanul | 27 | 27 |
+| livingpool | 27 | 27 |
 | longbui98 | 27 | 27 |
 | lyb88999 | 27 | 27 |
 | maket12 | 27 | 27 |

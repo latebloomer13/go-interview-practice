@@ -2,8 +2,10 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Gandook | 15 | 15 |
+| IvanDamNation | 15 | 15 |
 | PolinaSvet | 15 | 15 |
 | PopovMarko | 15 | 15 |
+| evassilyev | 15 | 15 |
 | imankhodadi | 15 | 15 |
 | mvsouza | 15 | 15 |
 | nzamulov | 15 | 15 |

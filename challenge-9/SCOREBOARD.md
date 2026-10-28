@@ -1,12 +1,16 @@
 # Scoreboard for challenge-9
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| AlieNoori | 12 | 12 |
 | Cpoing | 12 | 12 |
 | Gandook | 12 | 12 |
+| IvanDamNation | 12 | 12 |
 | Kosench | 12 | 12 |
+| Mgeorg1 | 12 | 12 |
 | PolinaSvet | 12 | 12 |
 | PopovMarko | 12 | 12 |
 | ashwinipatankar | 12 | 12 |
+| atplay90 | 12 | 12 |
 | brenoamin | 12 | 12 |
 | imankhodadi | 12 | 12 |
 | kushalShukla-web | 12 | 12 |
